@@ -32,7 +32,7 @@
 ## Installation
 1. **Clone the Repository**:
 
-    `git clone https://github.com/MounikaGandla-01/EduCluster-Simplifying-University-Selection.git`
+    `https://github.com/MounikaGandla-01/STRIDE_SIGHT.git`
     
 2. **Set Up Virtual Environment**:
     
